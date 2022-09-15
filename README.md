@@ -1,9 +1,9 @@
-echo "# tohid-Khan-" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
 
-git remote add origin https:///Tohidkhan6332/tohid-Khan-.git
+
+
+
+
+
 
 
 
@@ -14,7 +14,7 @@ git remote add origin https:///Tohidkhan6332/tohid-Khan-.git
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tohidkhan6332&label=Profile%20views&color=0e75b6&style=flat" alt="tohidkhan6332" /> </p>
 <img align="right" alt="coding" width="400" src="https://user
 
-images.githubusercontent.com/55389276/140866-485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+images.githubusercontent.co
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tohidkhan6332" alt="tohidkhan6332" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tohidkh31662231" target="blank"><img src="https://img.shields.io/twitter/follow/tohidkh31662231?logo=twitter&style=for-the-badge" alt="tohidkh31662231" /></a> </p>
