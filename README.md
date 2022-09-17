@@ -13,6 +13,8 @@
 <h1 align="center">Hi 👋, I'm Tohid Khan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tohidkhan6332&label=Profile%20views&color=0e75b6&style=flat" alt="tohidkhan6332" /> </p>
 <img align="right" alt="coding" width="400" src="https://user
+![image](https://user-images.githubusercontent.com/113549923/190856031-58a2793d-9854-4161-8dec-5b42f9a032e7.png)
+![image](https://user-images.githubusercontent.com/113549923/190856043-a897b990-c8c1-4cb6-9a88-70da97f22ec1.png)
 
 images.githubusercontent.co
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tohidkhan6332" alt="tohidkhan6332" /></a> </p>
