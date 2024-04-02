@@ -40,7 +40,6 @@
 </p>
 
 
-[![Profile views](https://komarev.com/ghpvc/?username=SuhailTechInfo&label=Profile%20views)](https://github.com/SuhailTechInfo)
 
 
 
@@ -48,11 +47,11 @@
 
 
 
-- 💫 I’m currently working on [Suhail-Md](https://github.com/SuhailTechInfo/Suhail-Md)
+- 💫 I’m currently working on [TOHID-KHAN](https://github.com/Tohidkhan6332)
 
-- 📫 [How to reach me!](https://github.com/SuhailTechInfo/SuhailTechInfo/blob/main/README.md#-how-to-reach-me)
+- 📫 [How to reach me!](https://github.com/Tohidkhan6332/README.md#-how-to-reach-me)
 
-- 📄 Know about my [experiences](https://github.com/ahsanbasharat4385?tab=repositories)
+- 📄 Know about my [experiences](https://github.com/tohidkhan6332?tab=repositories)
 
 - 👯 I’m looking to collaborate on **JavaScript projects** 
 
