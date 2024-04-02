@@ -52,7 +52,7 @@
 
 - 👯 I’m looking to collaborate on **JavaScript projects** 
 
-- 🌱 Fun fact **I always wear my favorite pair of quirky socks while programming 😂**
+- 🌱 Fun fact **I always wear my favorite pair of quirky socks while programming 😂*
 
 ---
 
