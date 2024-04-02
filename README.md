@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tohidkh31662231" target="blank"><img src="https://img.shields.io/twitter/follow/tohidkh31662231?logo=twitter&style=for-the-badge" alt="tohidkh31662231" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-- 📫 How to reach me **tohidkhan9050482152@gmail.com**
-
-- ⚡ Fun fact **🤣 I'm very funny 🤣**
+- 📫 How to reach me **tohidkhan9050482152@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,7 +28,6 @@
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tvn6y7tjpbzwvacw3iitologtq&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true" alt="spotify" align="right"/>
 
 
-<h1 align="center"><b>ʜι ɪ,ʍ TOHID KHAN </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 <p align="center">
@@ -94,13 +91,10 @@
 
 # 📫 How to reach me:
 
-[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923184474176)
+[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917849917350)
 
-[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/SuhailTechInfo0) 
+[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/tohid_mewati) 
 
-[![Linked In](https://img.shields.io/badge/linkedIn-1b77FF.svg?style=for-the-badge&logo=linkedIn)](https://www.linkedin.com/in/m-suhail-6839552a2/) <br>
-
-<br>
 
 
 
