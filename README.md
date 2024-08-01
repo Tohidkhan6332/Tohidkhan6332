@@ -1,3 +1,10 @@
+<img align="center" height="auto"
+src="https://cardivo.vercel.app/api?name=𝕄ℝ𝕋𝕆ℍ𝕀𝔻&description=Hi,%20i%27m%20a%20just%20newbie%20programer%20Nice%20to%20meet%20you%20👋&image=https://telegra.ph/file/005849c39bb8d2428a325.jpg?v=4&backgroundColor=%23ecf0f1&github=Tohidkhan6332&pattern=leaf&colorPattern=%23eaeaea"/>
+
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/Tohidkhan6332/count.svg" />
+</p>
 <h1 align="center">Hi 👋, I'm Tohid Khan</h1>
 <h3 align="center">I'm mechanical engineer</h3>
 
