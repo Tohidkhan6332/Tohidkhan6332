@@ -5,6 +5,13 @@ src="https://cardivo.vercel.app/api?name=𝕄ℝ𝕋𝕆ℍ𝕀𝔻&description=
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/Tohidkhan6332/count.svg" />
 </p>
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8FF700&center=true&vCenter=true&random=false&width=435&lines=Hey+I'm+Tohid+Khan;Don't+Forget+To+Follow+Me...)](https://git.io/typing-svg)
+
+
+
 <h1 align="center">Hi 👋, I'm Tohid Khan</h1>
 <h3 align="center">I'm mechanical engineer</h3>
 
@@ -111,20 +118,6 @@ src="https://cardivo.vercel.app/api?name=𝕄ℝ𝕋𝕆ℍ𝕀𝔻&description=
 
 
 
-<!--
-**SuhailTechInfo/SuhailTechInfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
