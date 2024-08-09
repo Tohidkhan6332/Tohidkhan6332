@@ -112,6 +112,15 @@ src="https://cardivo.vercel.app/api?name=𝕄ℝ𝕋𝕆ℍ𝕀𝔻&description=
 
 
 
+- 😊 I’m Tohid khan
+- 👦🏻 Age is unknown
+- 👀 I’m interested in Hacking,Programming,Javascript ,bot deployment,python,C...
+- 🌱 Currently a student at unknown
+- 💞️ I’m looking to collaborate on programming ,Linux ,Linux tools development ,WhatsApp bot development...
+- 📫 Email me via tohidkhan9050482152@gmail.com to contact
+- 🤩 Follow me on Instagram https://www.instagram.com/tohidkhan6332/
+- 💬 Text me on telegram https://t.me/tohid_mewati
+- ✉️ Text me on WhatsApp https://wa.me/917849917350
 
 
 
