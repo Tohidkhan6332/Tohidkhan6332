@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/tenor.gif width="150" height="150 <br>
+<p align="center"
+
 <img align="center" height="auto"
 src="https://cardivo.vercel.app/api?name=𝕄ℝ𝕋𝕆ℍ𝕀𝔻&description=Hi,%20i%27m%20a%20just%20newbie%20programer%20Nice%20to%20meet%20you%20👋&image=https://telegra.ph/file/005849c39bb8d2428a325.jpg?v=4&backgroundColor=%23ecf0f1&github=Tohidkhan6332&pattern=leaf&colorPattern=%23eaeaea"/>
 
