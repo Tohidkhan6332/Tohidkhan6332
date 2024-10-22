@@ -79,6 +79,89 @@ src="https://cardivo.vercel.app/api?name=𝕄ℝ𝕋𝕆ℍ𝕀𝔻&description=
 <img alt="Development" width="400" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 
 
+# `Expertise`
+
+Computer Vision
+[████████▒▒](https://github.com/Tohidkhan6332) ✔️  70%
+
+Tabular
+[████████▒▒](https://github.com/Tohidkhan6332) ✔️  89%
+
+Deep Learning
+[██████████](https://github.com/Tohidkhan6332) ✔️  100%
+
+
+Natural Language Processing
+[██▒▒▒▒▒▒▒](https://github.com/Tohidkhan6332) ✔️  10% 「 Translation [███████▒▒▒](https://github.com/Tohidkhan6332)    Text2Text generation [█▒▒▒▒▒▒▒▒](https://github.com/Tohidkhan6332) 」
+
+
+Audio 
+[███▒▒▒▒▒▒](https://github.com/Tohidkhan6332) ✔️  30% 「 Automatic Speech Recognition [█████████▒](https://github.com/Tohidkhan6332) Speech2Text generation [███▒▒▒▒▒▒](https://github.com/Tohidkhan6332) 」
+
+
+
+
+# `🛠 My Stacks`
+> ### Programming Languages
+  
+<div>
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+</div>
+
+<div>
+<img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
+
+
+> ### Techs, Frameworks & Tools
+
+<div>
+  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Jekyll" src="https://img.shields.io/badge/JEKYLL-floralwhite?style=for-the-badge&logo=jekyll&logoColor=%23db5a6b">
+</div>
+
+
+<div>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
+</div>
+
+
+<div>
+  <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+
+  <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
+   
+  <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+</div>
+
+  <!-- <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> -->
+
+<div>
+  <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <!-- <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> -->
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+</div>
+
+
+<div>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <!-- <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/> -->
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+</div>
+
+
+  <!-- <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
+
+  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+  <img alt="R Studio" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"/>
+
+  <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> -->
+
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
