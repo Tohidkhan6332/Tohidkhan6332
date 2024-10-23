@@ -1,3 +1,7 @@
+[![TOHID-KHAN](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Tohid+Khan;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+India-Haryana;Nice+to+Meet+You)](https://github.com/Tohidkhan6332)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 <p align="center">
   <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/tenor.gif width="150" height="150 <br>
 <p align="center"
@@ -197,6 +201,10 @@ Audio
 
 <a href="https://github.com/tohidkhan6332/TOHID-MD">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=TOHID-MD&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<a href="https://github.com/tohidkhan6332/TOHID_KHAN-V2">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=TOHID_KHAN-V2&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <a href="https://github.com/tohidkhan6332/TOHID_KHAN-V9">
