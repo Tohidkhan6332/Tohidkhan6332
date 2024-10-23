@@ -66,7 +66,7 @@ src="https://cardivo.vercel.app/api?name=𝕄ℝ𝕋𝕆ℍ𝕀𝔻&description=
 
 
 
-- 💫 I’m currently working on [TOHID-KHAN](https://github.com/Tohidkhan6332/TOHID-MD)
+- 💫 I’m currently working on [TOHID-MD WHATSAPP BOT](https://github.com/Tohidkhan6332/TOHID-MD)
 
 - 📫 [How to reach me!](https://github.com/Tohidkhan6332/TOHID-INFO#-how-to-reach-me)
 
