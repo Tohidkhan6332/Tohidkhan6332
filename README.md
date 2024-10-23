@@ -190,6 +190,22 @@ Audio
 
 ---
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+<h3>Some of my Projects:</h3>
+
+<a href="https://github.com/tohidkhan6332/TOHID-MD">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=TOHID-MD&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<a href="https://github.com/tohidkhan6332/TOHID_KHAN-V9">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=TOHID_KHAN-V9&theme=dark&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
 # 📫 How to reach me:
 
 [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/O6KWTGOGTVTYO1)
