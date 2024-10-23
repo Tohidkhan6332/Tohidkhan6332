@@ -34,8 +34,8 @@ src="https://cardivo.vercel.app/api?name=𝕄ℝ𝕋𝕆ℍ𝕀𝔻&description=
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tohidkh31662231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tohidkh31662231" height="30" width="40" /></a>
-<a href="https://fb.com/tohid khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tohid khan" height="30" width="40" /></a>
-<a href="https://instagram.com/tohidkhan6332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tohidkhan6332" height="30" width="40" /></a>
+<a href="https://www.facebook.com/tohidkhan6332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tohid khan" height="30" width="40" /></a>
+<a href="https://instagram.com/Tohidkhan6332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tohidkhan6332" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -66,9 +66,9 @@ src="https://cardivo.vercel.app/api?name=𝕄ℝ𝕋𝕆ℍ𝕀𝔻&description=
 
 
 
-- 💫 I’m currently working on [TOHID-KHAN](https://github.com/Tohidkhan6332)
+- 💫 I’m currently working on [TOHID-KHAN](https://github.com/Tohidkhan6332/TOHID-MD)
 
-- 📫 [How to reach me!](https://github.com/Tohidkhan6332/README.md#-how-to-reach-me)
+- 📫 [How to reach me!](https://github.com/Tohidkhan6332/TOHID-INFO#-how-to-reach-me)
 
 - 📄 Know about my [experiences](https://github.com/tohidkhan6332?tab=repositories)
 
