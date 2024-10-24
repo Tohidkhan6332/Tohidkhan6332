@@ -7,7 +7,7 @@
 <p align="center"
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=𝕄ℝ𝕋𝕆ℍ𝕀𝔻&description=Hi,%20i%27m%20a%20just%20newbie%20programer%20Nice%20to%20meet%20you%20👋&image=https://telegra.ph/file/005849c39bb8d2428a325.jpg?v=4&backgroundColor=%23ecf0f1&github=Tohidkhan6332&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=𝕄ℝ-𝕋𝕆ℍ𝕀𝔻&description=Hi,%20i%27m%20a%20just%20newbie%20programer%20Nice%20to%20meet%20you%20👋&image=https://telegra.ph/file/005849c39bb8d2428a325.jpg?v=4&backgroundColor=%23ecf0f1&github=Tohidkhan6332&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <p align="center"> 
   Visitor Count<br>
@@ -28,18 +28,20 @@ src="https://cardivo.vercel.app/api?name=𝕄ℝ𝕋𝕆ℍ𝕀𝔻&description=
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tohidkhan6332" alt="tohidkhan6332" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tohidkh31662231" target="blank"><img src="https://img.shields.io/twitter/follow/tohidkh31662231?logo=twitter&style=for-the-badge" alt="tohidkh31662231" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 - 📫 How to reach me **tohidkhan9050482152@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg
+<p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer">
+  
+ 
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tohidkhan6332&show_icons=true&locale=en&layout=compact" alt="tohidkhan6332" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tohidkhan6332&show_icons=true&locale=en" alt="tohidkhan6332" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tohidkhan6332&show_icons=true&locale=en" alt="tohidkhan6332" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tohidkhan6332&" alt="tohidkhan6332" /></p>
-
 
 
 
