@@ -220,6 +220,25 @@ Audio
 
 [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/tohid_mewati) 
 
+---
+
+## <div align="center">🌱 Social Networks:
+  </div>
+
+ <div id="badges" align="center">
+    <a href="https://www.github.com/Tohidkhan6332" target="_blank">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" alt="Github"/>
+    </a>
+    <a href="https://www.linkedin.com/in/tohid-khan-3b3a69307" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://www.youtube.com/@Tohidkhan_6332" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
+    </a>
+  </div>
+
+---
+
 # ⚡ TOHID KHAN INFO
 
 ℹ️  <a href="https://github.com/Tohidkhan6332/TOHID-INFO/tree/main"><img title="Deploy On Render" src="https://img.shields.io/badge/TOHID INFORMATION-h?color=blue&style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
