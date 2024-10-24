@@ -37,11 +37,12 @@ src="https://cardivo.vercel.app/api?name=𝕄ℝ-𝕋𝕆ℍ𝕀𝔻&description
  
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tohidkhan6332&show_icons=true&locale=en&layout=compact" alt="tohidkhan6332" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=tohidkhan6332&show_icons=true&locale=en" alt="tohidkhan6332" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tohidkhan6332&show_icons=true&locale=en&layout=compact" alt="tohidkhan6332" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tohidkhan6332&show_icons=true&locale=en" alt="tohidkhan6332" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tohidkhan6332&" alt="tohidkhan6332" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tohidkhan6332&" alt="tohidkhan6332" /></p>
 
 
 
@@ -76,7 +77,7 @@ src="https://cardivo.vercel.app/api?name=𝕄ℝ-𝕋𝕆ℍ𝕀𝔻&description
 ## 📊 Languages and Tools
 <img align="right" width="40%" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" />
 
-<img alt="Development" width="500" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
+<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 
 
 # `Expertise`
