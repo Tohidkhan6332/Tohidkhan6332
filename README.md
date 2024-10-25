@@ -29,7 +29,10 @@ src="https://cardivo.vercel.app/api?name=𝕄ℝ-𝕋𝕆ℍ𝕀𝔻&description
 
 <p align="left"> <a href="https://twitter.com/tohidkh31662231" target="blank"><img src="https://img.shields.io/twitter/follow/tohidkh31662231?logo=twitter&style=for-the-badge" alt="tohidkh31662231" /></a> </p>
 
-- 📫 How to reach me **tohidkhan9050482152@gmail.com
+- 📫 How to reach me *👇*
+
+<a href="https://github.com/Tohidkhan6332/TOHID-INFO/tree/main"><img title="Deploy On Render" src="https://img.shields.io/badge/CONTACT WITH ME-h?color=blue&style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer">
