@@ -34,7 +34,8 @@ src="https://cardivo.vercel.app/api?name=𝕄ℝ-𝕋𝕆ℍ𝕀𝔻&description
 <a href="https://github.com/Tohidkhan6332/TOHID-INFO/tree/main"><img title="Deploy On Render" src="https://img.shields.io/badge/CONTACT WITH ME-h?color=blue&style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+## My Programming Stats
+
 <p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer">
   
  
@@ -51,7 +52,6 @@ src="https://cardivo.vercel.app/api?name=𝕄ℝ-𝕋𝕆ℍ𝕀𝔻&description
 
 
 
-## My Programming Stats
 | <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Tohidkhan6332&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" alt="My GitHub Stats" /> <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gamemann&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> |
 
 
