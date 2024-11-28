@@ -207,11 +207,11 @@ Audio
 
 <h3>Some of my Projects:</h3>
 
-<a href="https://github.com/tohidkhan6332/TOHID-MD">
+<a href="https://github.com/tohidkhan6332/TOHID_MD">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=TOHID-MD&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/tohidkhan6332/TOHID_KHAN-V2">
+<a href="https://github.com/tohidkhan6332/TOHID-KHAN">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=TOHID_KHAN-V2&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
