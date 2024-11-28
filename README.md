@@ -25,6 +25,8 @@ src="https://cardivo.vercel.app/api?name=𝕄ℝ-𝕋𝕆ℍ𝕀𝔻&description
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tohidkhan6332&label=Profile%20views&color=0e75b6&style=flat" alt="tohidkhan6332" /> </p>
 
+<p align="left"><a href="https://github.com/Tohidkhan6332/"><img title="Followers" src="https://img.shields.io/github/followers/Tohidkhan6332?color=blue&style=flat-square"></a>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tohidkhan6332" alt="tohidkhan6332" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tohidkh31662231" target="blank"><img src="https://img.shields.io/twitter/follow/tohidkh31662231?logo=twitter&style=for-the-badge" alt="tohidkh31662231" /></a> </p>
