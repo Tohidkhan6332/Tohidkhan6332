@@ -213,8 +213,8 @@ Audio
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=TOHID_MD&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/tohidkhan6332/TOHID-KHAN">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=TOHID-KHAN&theme=dark&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/tohidkhan6332/TOHID-AI">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=TOHID-AI&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <a href="https://github.com/tohidkhan6332/TOHID_KHAN-V9">
