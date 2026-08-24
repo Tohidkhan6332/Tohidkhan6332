@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Tohidkhan6332's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 [![TOHID-KHAN](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Tohid+Khan;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+India-Haryana;Nice+to+Meet+You)](https://github.com/Tohidkhan6332)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
