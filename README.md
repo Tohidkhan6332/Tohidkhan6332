@@ -93,6 +93,51 @@
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
 
 
+## 💻 Developer Profile
+
+```js
+const tohid = {
+  role: "Developer",
+  location: "Haryana, India",
+  languages: ["JavaScript", "Python", "HTML", "CSS"],
+  backend: ["Node.js", "Express.js", "REST APIs"],
+  frontend: ["React", "HTML5", "CSS3"],
+  databases: ["MongoDB", "MySQL", "SQL Server"],
+  automation: ["WhatsApp Bots", "AI Automation", "API Integrations"],
+  tools: ["Git", "GitHub", "Docker", "VS Code", "Linux"],
+  deployment: ["Vercel", "Render", "Docker", "VPS"],
+  currentlyBuilding: ["TOHID-AGENT", "TOHID-AI"]
+};
+```
+
+### 🧠 Coding & Development
+
+- **JavaScript / Node.js** — bot development, REST APIs, automation and backend services
+- **Python** — scripting, automation and utility tools
+- **React** — frontend interfaces and dashboards
+- **MongoDB** — application data, users, groups and bot-related persistence
+- **Git & GitHub** — version control, repositories and project workflows
+- **Docker / VPS** — deployment, services and production environments
+- **API Integration** — connecting AI, messaging, web and third-party services
+
+### ⚙️ Typical Project Flow
+
+```text
+Idea
+  ↓
+Architecture & File Structure
+  ↓
+JavaScript / Python Development
+  ↓
+API + Database Integration
+  ↓
+Testing & Debugging
+  ↓
+Git / GitHub
+  ↓
+Docker / VPS / Cloud Deployment
+```
+
 ## 🎯 Focus Areas
 
 - 🤖 **AI & Automation** — practical AI-powered tools and workflow automation
