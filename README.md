@@ -11,25 +11,20 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8FF700&center=true&vCenter=true&random=false&width=435&lines=Hey+I'm+Tohid+Khan;Don't+Forget+To+Follow+Me...)](https://git.io/typing-svg)
-
-
-
-<h1 align="center">Hi 👋, My name is Tohid Khan</h1>
-<h3 align="center">I'm a mechanical engineer</h3>
+<h1 align="center">Hi 👋, I'm Tohid Khan</h1>
+<h3 align="center">Developer • Automation Builder • WhatsApp & AI Projects</h3>
 
 <p align="center">
-  <a href="https://github.com/Tohidkhan6332">
-    <img src="https://img.shields.io/github/followers/Tohidkhan6332?label=Followers&style=for-the-badge&color=0969da" alt="GitHub Followers"/>
+  <a href="https://github.com/Tohidkhan6332?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+  </a>
+  <a href="https://github.com/Tohidkhan6332/TOHID-AGENT">
+    <img src="https://img.shields.io/badge/TOHID--AGENT-6F42C1?style=for-the-badge&logo=github&logoColor=white" alt="TOHID-AGENT"/>
+  </a>
+  <a href="mailto:tohidkhan9050482152@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACT%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
   </a>
 </p>
-
-<p align="center">
-  <a href="#-about-me">
-    <img src="https://img.shields.io/badge/ABOUT%20ME-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="About Me" width="220"/>
-  </a>
-</p>
-
 
 ## 📊 My GitHub Stats
 
@@ -57,6 +52,22 @@
 
 
 
+## 🧩 What I Build
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WhatsApp%20Bots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Bots"/>
+  <img src="https://img.shields.io/badge/AI%20Automation-6F42C1?style=for-the-badge&logo=robot&logoColor=white" alt="AI Automation"/>
+  <img src="https://img.shields.io/badge/Web%20Apps-0969DA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Apps"/>
+  <img src="https://img.shields.io/badge/JavaScript%20%26%20Python-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript and Python"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Automation-181717?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Baileys"/>
+</p>
+
 ## 🚀 Currently Working On
 
 <p align="center">
@@ -82,31 +93,26 @@
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
 
 
-# `Expertise`
+## 🎯 Focus Areas
 
-Computer Vision
-[████████▒▒](https://github.com/Tohidkhan6332) ✔️  70%
-
-Tabular
-[████████▒▒](https://github.com/Tohidkhan6332) ✔️  89%
-
-Deep Learning
-[██████████](https://github.com/Tohidkhan6332) ✔️  100%
-
-
-Natural Language Processing
-[██▒▒▒▒▒▒▒](https://github.com/Tohidkhan6332) ✔️  10% 「 Translation [███████▒▒▒](https://github.com/Tohidkhan6332)    Text2Text generation [█▒▒▒▒▒▒▒▒](https://github.com/Tohidkhan6332) 」
-
-
-Audio 
-[███▒▒▒▒▒▒](https://github.com/Tohidkhan6332) ✔️  30% 「 Automatic Speech Recognition [█████████▒](https://github.com/Tohidkhan6332) Speech2Text generation [███▒▒▒▒▒▒](https://github.com/Tohidkhan6332) 」
-
-
-
+- 🤖 **AI & Automation** — practical AI-powered tools and workflow automation
+- 💬 **WhatsApp Development** — bots, pairing systems and messaging automation
+- 🌐 **Web Development** — responsive websites, dashboards and developer tools
+- 🧰 **Backend Development** — Node.js, APIs, databases and deployment workflows
+- 🐍 **Python & JavaScript** — scripting, web development and automation
 
 ## 👤 About Me
 
 I'm Tohid Khan, a developer from Haryana, India, focused on JavaScript, Python, web development, automation, and WhatsApp/AI projects.
+
+## 🔗 Quick Navigation
+
+<p align="center">
+  <a href="#-what-i-build"><img src="https://img.shields.io/badge/WHAT%20I%20BUILD-25D366?style=for-the-badge&logo=github&logoColor=white" alt="What I Build"/></a>
+  <a href="#-my-github-stats"><img src="https://img.shields.io/badge/GITHUB%20STATS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats"/></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/PROJECTS-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
+  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/CONNECT-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Connect"/></a>
+</p>
 
 <a href="https://github.com/Tohidkhan6332?tab=repositories">
   <img src="https://img.shields.io/badge/VIEW%20MY%20PROJECTS-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="View My Projects"/>
