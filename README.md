@@ -3,15 +3,6 @@
 </p>
 
 [![TOHID-KHAN](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Tohid+Khan;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+India-Haryana;Nice+to+Meet+You)](https://github.com/Tohidkhan6332)
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-<p align="center">
-  <img src=https://github.com/majidtdeni666/majidtdeni666/blob/main/script/tenor.gif width="150" height="150 <br>
-<p align="center"
-
-<img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=𝕄ℝ-𝕋𝕆ℍ𝕀𝔻&description=Hi,%20i%27m%20a%20just%20newbie%20programer%20Nice%20to%20meet%20you%20👋&image=https://telegra.ph/file/005849c39bb8d2428a325.jpg?v=4&backgroundColor=%23ecf0f1&github=Tohidkhan6332&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <p align="center">
   <b>Visitor Count</b><br>
@@ -26,8 +17,6 @@ src="https://cardivo.vercel.app/api?name=𝕄ℝ-𝕋𝕆ℍ𝕀𝔻&description
 
 <h1 align="center">Hi 👋, My name is Tohid Khan</h1>
 <h3 align="center">I'm a mechanical engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tohidkhan6332&label=Profile%20views&color=0e75b6&style=flat" alt="tohidkhan6332" /> </p>
 
 <p align="center">
   <a href="https://github.com/Tohidkhan6332">
@@ -101,7 +90,7 @@ src="https://cardivo.vercel.app/api?name=𝕄ℝ-𝕋𝕆ℍ𝕀𝔻&description
 ## 📊 Languages and Tools
 <img align="right" width="40%" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" />
 
-<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
+<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
 
 
 # `Expertise`
@@ -158,7 +147,6 @@ I'm Tohid Khan, a developer from Haryana, India, focused on JavaScript, Python, 
 
 <div>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Jekyll" src="https://img.shields.io/badge/JEKYLL-floralwhite?style=for-the-badge&logo=jekyll&logoColor=%23db5a6b">
 </div>
 
 
@@ -232,90 +220,76 @@ I'm Tohid Khan, a developer from Haryana, India, focused on JavaScript, Python, 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<h3>Some of my Projects:</h3>
+## 🚀 Featured Projects
 
-<a href="https://github.com/tohidkhan6332/TOHID-AI">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=TOHID-AI&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<a href="https://github.com/tohidkhan6332/TOHID_KHAN-V9">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=TOHID_KHAN-V9&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<a href="https://github.com/Tohidkhan6332/tg-contact-form">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=tg-contact-form&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-# 📫 How to reach me:
-
-[![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917849917350?text=Hello+𝕄𝕣+𝕋𝕠𝕙𝕚𝕕)
-
-[![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/tohid_mewati) 
-
----
-
-## <div align="center">🌱 Social Networks:
-  </div>
-
-<p align="left">
-<a href="https://twitter.com/tohidkh31662231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tohidkh31662231" height="30" width="40" /></a>
-<a href="https://www.facebook.com/tohidkhan6332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tohid khan" height="30" width="40" /></a>
-<a href="https://instagram.com/Tohidkhan6332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tohidkhan6332" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Tohidkhan6332/TOHID-AGENT">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=TOHID-AGENT&theme=tokyonight&hide_border=true" alt="TOHID-AGENT" />
+  </a>
+  <a href="https://github.com/Tohidkhan6332/TOHID-AI">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=TOHID-AI&theme=tokyonight&hide_border=true" alt="TOHID-AI" />
+  </a>
 </p>
 
- <div id="badges" align="center">
-    <a href="https://www.github.com/Tohidkhan6332" target="_blank">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="40" height="40" alt="Github"/>
-    </a>
-    <a href="https://www.linkedin.com/in/tohid-khan-3b3a69307" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://www.youtube.com/@Tohidkhan_6332" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
-    </a>
-  </div>
+<p align="center">
+  <a href="https://github.com/Tohidkhan6332/Tohid-Ai-Quiz-Bot">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=Tohid-Ai-Quiz-Bot&theme=tokyonight&hide_border=true" alt="Tohid-Ai-Quiz-Bot" />
+  </a>
+  <a href="https://github.com/Tohidkhan6332/tohidgame">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=tohidgame&theme=tokyonight&hide_border=true" alt="TohidGame" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Tohidkhan6332/tohidgeminiprompte">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=tohidgeminiprompte&theme=tokyonight&hide_border=true" alt="Tohid Gemini Prompte" />
+  </a>
+  <a href="https://github.com/Tohidkhan6332/TOHID-AI-WEB-PAIR">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=TOHID-AI-WEB-PAIR&theme=tokyonight&hide_border=true" alt="TOHID-AI Web Pair" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Tohidkhan6332/TOHID-AGENT">
+    <img src="https://img.shields.io/badge/TOHID--AGENT-6F42C1?style=for-the-badge&logo=github&logoColor=white" alt="TOHID-AGENT"/>
+  </a>
+  <a href="https://github.com/Tohidkhan6332/TOHID-AI">
+    <img src="https://img.shields.io/badge/TOHID--AI-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="TOHID-AI"/>
+  </a>
+  <a href="https://github.com/Tohidkhan6332?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all projects"/>
+  </a>
+</p>
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:tohidkhan9050482152@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/Tohidkhan6332">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://t.me/Tohidkhan6332">
+    <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://wa.me/917849917350?text=Hello%20Tohid">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Tohidkhan6332">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://github.com/Tohidkhan6332/TOHID-INFO">
+    <img src="https://img.shields.io/badge/TOHID%20INFO-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="TOHID INFO"/>
+  </a>
+</p>
 
 ---
 
-# ⚡ TOHID KHAN INFO
-
-ℹ️  <a href="https://github.com/Tohidkhan6332/TOHID-INFO/tree/main"><img title="Deploy On Render" src="https://img.shields.io/badge/TOHID INFORMATION-h?color=blue&style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
-
-
-- 😊 I’m Tohid khan
-- 👦🏻 Age is unknown
-- 👀 I’m interested in Hacking,Programming,Javascript ,bot deployment,python,C...
-- 🌱 Currently a student at unknown
-- 💞️ I’m looking to collaborate on programming ,Linux ,Linux tools development ,WhatsApp bot development...
-- 📫 Email me via tohidkhan9050482152@gmail.com to contact
-- 🤩 Follow me on Instagram https://www.instagram.com/tohidkhan6332/
-- 💬 Text me on telegram https://t.me/Tohidkhan6332
-- ✉️ Text me on WhatsApp https://wa.me/message/O6KWTGOGTVTYO1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b><br>
+  <sub>Building bots, web apps, automation tools and AI projects.</sub>
+</p>
