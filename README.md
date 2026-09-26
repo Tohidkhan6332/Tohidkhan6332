@@ -31,18 +31,11 @@
 </p>
 
 
-## My Programming Stats
+## 📊 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Tohidkhan6332">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tohidkhan6332&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="My GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Tohidkhan6332">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tohidkhan6332&theme=github_dark&utcOffset=5.5" alt="My GitHub Time Stats" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tohidkhan6332&theme=github_dark" alt="My GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tohidkhan6332&theme=github_dark&utcOffset=5.5" alt="My GitHub Time Stats" />
 </p>
 
 <p align="center">
@@ -52,10 +45,6 @@
   <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tohidkhan6332&theme=github_dark&utcOffset=5.5">
     <img src="https://img.shields.io/badge/MY%20GITHUB%20TIME%20STATS-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="My GitHub Time Stats"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tohidkhan6332&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -224,38 +213,32 @@ I'm Tohid Khan, a developer from Haryana, India, focused on JavaScript, Python, 
 
 <p align="center">
   <a href="https://github.com/Tohidkhan6332/TOHID-AGENT">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=TOHID-AGENT&theme=tokyonight&hide_border=true" alt="TOHID-AGENT" />
-  </a>
-  <a href="https://github.com/Tohidkhan6332/TOHID-AI">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=TOHID-AI&theme=tokyonight&hide_border=true" alt="TOHID-AI" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Tohidkhan6332/Tohid-Ai-Quiz-Bot">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=Tohid-Ai-Quiz-Bot&theme=tokyonight&hide_border=true" alt="Tohid-Ai-Quiz-Bot" />
-  </a>
-  <a href="https://github.com/Tohidkhan6332/tohidgame">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=tohidgame&theme=tokyonight&hide_border=true" alt="TohidGame" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Tohidkhan6332/tohidgeminiprompte">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=tohidgeminiprompte&theme=tokyonight&hide_border=true" alt="Tohid Gemini Prompte" />
-  </a>
-  <a href="https://github.com/Tohidkhan6332/TOHID-AI-WEB-PAIR">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=TOHID-AI-WEB-PAIR&theme=tokyonight&hide_border=true" alt="TOHID-AI Web Pair" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Tohidkhan6332/TOHID-AGENT">
     <img src="https://img.shields.io/badge/TOHID--AGENT-6F42C1?style=for-the-badge&logo=github&logoColor=white" alt="TOHID-AGENT"/>
   </a>
   <a href="https://github.com/Tohidkhan6332/TOHID-AI">
     <img src="https://img.shields.io/badge/TOHID--AI-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="TOHID-AI"/>
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Tohidkhan6332/Tohid-Ai-Quiz-Bot">
+    <img src="https://img.shields.io/badge/TOHID--AI%20QUIZ%20BOT-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Tohid-Ai-Quiz-Bot"/>
+  </a>
+  <a href="https://github.com/Tohidkhan6332/tohidgame">
+    <img src="https://img.shields.io/badge/TOHIDGAME-F59E0B?style=for-the-badge&logo=gamepad&logoColor=white" alt="TohidGame"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Tohidkhan6332/tohidgeminiprompte">
+    <img src="https://img.shields.io/badge/TOHID%20GEMINI%20PROMPTE-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Tohid Gemini Prompte"/>
+  </a>
+  <a href="https://github.com/Tohidkhan6332/TOHID-AI-WEB-PAIR">
+    <img src="https://img.shields.io/badge/TOHID--AI%20WEB%20PAIR-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="TOHID-AI Web Pair"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Tohidkhan6332?tab=repositories">
     <img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all projects"/>
   </a>
