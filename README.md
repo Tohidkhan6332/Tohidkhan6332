@@ -25,6 +25,9 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tohidkhan6332&theme=github_dark" alt="My GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tohidkhan6332&theme=github_dark&utcOffset=5.5" alt="My GitHub Time Stats" />
 </p>
 
