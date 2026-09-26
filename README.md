@@ -280,7 +280,7 @@ Audio
 - 💞️ I’m looking to collaborate on programming ,Linux ,Linux tools development ,WhatsApp bot development...
 - 📫 Email me via tohidkhan9050482152@gmail.com to contact
 - 🤩 Follow me on Instagram https://www.instagram.com/tohidkhan6332/
-- 💬 Text me on telegram https://t.me/tohid_mewati
+- 💬 Text me on telegram https://t.me/Tohidkhan6332
 - ✉️ Text me on WhatsApp https://wa.me/message/O6KWTGOGTVTYO1
 
 
