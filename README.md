@@ -234,10 +234,6 @@ I'm Tohid Khan, a developer from Haryana, India, focused on JavaScript, Python, 
 
 <h3>Some of my Projects:</h3>
 
-<a href="https://github.com/tohidkhan6332/TOHID_MD">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=TOHID_MD&theme=dark&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 <a href="https://github.com/tohidkhan6332/TOHID-AI">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tohidkhan6332&repo=TOHID-AI&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
