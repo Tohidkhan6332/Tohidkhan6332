@@ -319,6 +319,66 @@ I'm Tohid Khan, a developer from Haryana, India, focused on JavaScript, Python, 
   </a>
 </p>
 
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tohidkhan6332&label=Profile%20Visitors&color=0e75b6&style=for-the-badge" alt="Profile visitors" />
+</p>
+
+## 🧠 Expertise
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/WhatsApp%20Bots-Advanced-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Bots" />
+  <img src="https://img.shields.io/badge/AI%20Automation-Advanced-6F42C1?style=for-the-badge&logo=robot&logoColor=white" alt="AI Automation" />
+  <img src="https://img.shields.io/badge/Web%20Development-Advanced-0969DA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Development" />
+</p>
+
+## 📌 More Projects
+
+<p align="center">
+  <a href="https://github.com/Tohidkhan6332/TOHID_MD">
+    <img src="https://img.shields.io/badge/TOHID--MD-WHATSAPP%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="TOHID-MD" />
+  </a>
+</p>
+
+## 🤝 Follow Me
+
+<p align="center">
+  <a href="https://github.com/Tohidkhan6332">
+    <img src="https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
+  <a href="https://instagram.com/Tohidkhan6332">
+    <img src="https://img.shields.io/badge/FOLLOW%20ON%20INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram" />
+  </a>
+  <a href="https://t.me/Tohidkhan6332">
+    <img src="https://img.shields.io/badge/JOIN%20TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram" />
+  </a>
+  <a href="https://wa.me/917849917350?text=Hello%20Tohid">
+    <img src="https://img.shields.io/badge/CHAT%20ON%20WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp" />
+  </a>
+</p>
+
+## 📫 How to Reach Me
+
+<p align="center">
+  <a href="mailto:tohidkhan9050482152@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/Tohidkhan6332">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://t.me/Tohidkhan6332">
+    <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://wa.me/917849917350?text=Hello%20Tohid">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
