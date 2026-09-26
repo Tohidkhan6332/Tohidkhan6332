@@ -13,9 +13,9 @@
 <img align="center" height="auto"
 src="https://cardivo.vercel.app/api?name=𝕄ℝ-𝕋𝕆ℍ𝕀𝔻&description=Hi,%20i%27m%20a%20just%20newbie%20programer%20Nice%20to%20meet%20you%20👋&image=https://telegra.ph/file/005849c39bb8d2428a325.jpg?v=4&backgroundColor=%23ecf0f1&github=Tohidkhan6332&pattern=leaf&colorPattern=%23eaeaea"/>
 
-<p align="center"> 
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/Tohidkhan6332/count.svg" />
+<p align="center">
+  <b>Visitor Count</b><br>
+  <img src="https://viewcounter.live/Tohidkhan6332?label=VISITORS&bg_color=0d1117&text_color=58a6ff&rounded=true" alt="Visitor Count" />
 </p>
 
 
@@ -29,45 +29,45 @@ src="https://cardivo.vercel.app/api?name=𝕄ℝ-𝕋𝕆ℍ𝕀𝔻&description
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tohidkhan6332&label=Profile%20views&color=0e75b6&style=flat" alt="tohidkhan6332" /> </p>
 
-<p align="left"><a href="https://github.com/Tohidkhan6332/"><img title="Followers" src="https://img.shields.io/github/followers/Tohidkhan6332?color=blue&style=flat-square"></a>
+<p align="center">
+  <a href="https://github.com/Tohidkhan6332">
+    <img src="https://img.shields.io/github/followers/Tohidkhan6332?label=Followers&style=for-the-badge&color=0969da" alt="GitHub Followers"/>
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tohidkhan6332" alt="tohidkhan6332" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/tohidkh31662231" target="blank"><img src="https://img.shields.io/twitter/follow/tohidkh31662231?logo=twitter&style=for-the-badge" alt="tohidkh31662231" /></a> </p>
-
-- 📫 How to reach me *👇*
-
-<a href="https://github.com/Tohidkhan6332/TOHID-INFO/tree/main"><img title="Deploy On Render" src="https://img.shields.io/badge/CONTACT WITH ME-h?color=blue&style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
+<p align="center">
+  <a href="#-about-me">
+    <img src="https://img.shields.io/badge/ABOUT%20ME-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="About Me" width="220"/>
+  </a>
+</p>
 
 
 ## My Programming Stats
 
-<p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer">
-  
- 
+<p align="center">
+  <a href="https://github.com/Tohidkhan6332">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tohidkhan6332&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="My GitHub Stats" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/Tohidkhan6332">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tohidkhan6332&theme=github_dark&utcOffset=5.5" alt="My GitHub Time Stats" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tohidkhan6332&show_icons=true&locale=en&layout=compact" alt="tohidkhan6332" /></p>
+<p align="center">
+  <a href="https://github.com/Tohidkhan6332">
+    <img src="https://img.shields.io/badge/MY%20GITHUB%20STATS-181717?style=for-the-badge&logo=github&logoColor=white" alt="My GitHub Stats"/>
+  </a>
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tohidkhan6332&theme=github_dark&utcOffset=5.5">
+    <img src="https://img.shields.io/badge/MY%20GITHUB%20TIME%20STATS-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="My GitHub Time Stats"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tohidkhan6332&show_icons=true&locale=en" alt="tohidkhan6332" /></p>
-
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tohidkhan6332&" alt="tohidkhan6332" /></p>
-
-
-
-
-
-| <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Tohidkhan6332&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=Stats" alt="My GitHub Stats" /> <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=gamemann&theme=blue-green&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" alt="My GitHub Time Stats" /> |
-
-
-
-
-
-
-
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tohidkhan6332&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -79,17 +79,22 @@ src="https://cardivo.vercel.app/api?name=𝕄ℝ-𝕋𝕆ℍ𝕀𝔻&description
 
 
 
-- 💫 I’m currently working on [TOHID-AI WHATSAPP BOT](https://github.com/Tohidkhan6332/TOHID-AI)
+## 🚀 Currently Working On
 
-- 💫 I’m currently working on [TOHID_MD WHATSAPP BOT](https://github.com/Tohidkhan6332/TOHID_MD)
+<p align="center">
+  <a href="https://github.com/Tohidkhan6332/TOHID-AI">
+    <img src="https://img.shields.io/badge/TOHID--AI%20WHATSAPP%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="TOHID-AI WhatsApp Bot"/>
+  </a>
+  <a href="https://github.com/Tohidkhan6332/TOHID-AGENT">
+    <img src="https://img.shields.io/badge/TOHID--AGENT-6F42C1?style=for-the-badge&logo=github&logoColor=white" alt="TOHID-AGENT"/>
+  </a>
+</p>
 
-- 📫 [How to reach me!](https://github.com/Tohidkhan6332/TOHID-INFO#-how-to-reach-me)
+- 📄 Know about my [experiences](https://github.com/Tohidkhan6332?tab=repositories)
 
-- 📄 Know about my [experiences](https://github.com/tohidkhan6332?tab=repositories)
+- 👯 I’m looking to collaborate on **JavaScript projects**
 
-- 👯 I’m looking to collaborate on **JavaScript projects** 
-
-- 🌱 Fun fact **I always wear my favorite pair of quirky socks while programming 😂*
+- 🌱 Fun fact **I always wear my favorite pair of quirky socks while programming 😂**
 
 ---
 
@@ -120,6 +125,20 @@ Audio
 
 
 
+
+## 👤 About Me
+
+I'm Tohid Khan, a developer from Haryana, India, focused on JavaScript, Python, web development, automation, and WhatsApp/AI projects.
+
+<a href="https://github.com/Tohidkhan6332?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW%20MY%20PROJECTS-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="View My Projects"/>
+</a>
+
+<a href="https://github.com/Tohidkhan6332/TOHID-INFO">
+  <img src="https://img.shields.io/badge/CONTACT%20%26%20INFO-181717?style=for-the-badge&logo=github&logoColor=white" alt="Contact and Info"/>
+</a>
+
+---
 
 # `🛠 My Stacks`
 > ### Programming Languages
